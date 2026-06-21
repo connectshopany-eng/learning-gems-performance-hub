@@ -1,0 +1,6 @@
+{
+  "name": "Learning Gems Performance Hub",
+  "description": "Full-stack SaaS dashboard replacing Excel trackers for Learning Gems Technologies. Includes automated employee performance engines, attendance/leave logs, slide/word trackers, and predictive Gemini AI reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
